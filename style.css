@@ -15,30 +15,30 @@ body{
     margin: 20px 0 50px 0;
 }
 h1{
-    font-size: 70px ;
-    color: rgb(14, 14, 82);
+    font-size: 80px ;
+    color:#363958;
     font-family: 'Bebas Neue', cursive;
     margin: 0;
     font-weight: 575;
 }
 h2{
-    font-size: 50px;
-    color: rgb(14, 14, 82);
+    font-size: 48px;
+    color: #363958;
     font-family: 'Bebas Neue', cursive;
     margin: 0;
     font-weight: 550;
 }
 h4{
-    font-size: 30px;
+    font-size: 24px;
     margin: 20px;
-    color: rgba(0, 0, 0, 0.753);
+    color: #363958;
 }
 p{
-    font-size: 20px;
+    font-size: 16px;
     color: dimgray;
 }
 .name{
-    color: rgb(240, 116, 68);
+    color:#FF8367;
 }
 .half-width{
     width: 35%;
@@ -98,7 +98,7 @@ section{
     float: left;
     margin-left: 350px;
     padding-top: 65px;
-    font-size: 60px;
+    font-size: 64px;
     color: white;
     font-weight: 550;
     font-family: 'Bebas Neue', cursive;
@@ -124,7 +124,7 @@ h5{
     font-weight: 250;
 }
 h3{
-    font-size: 35px;
+    font-size: 36px;
     margin: 20px;
     color: rgba(0, 0, 0, 0.753);
 }
